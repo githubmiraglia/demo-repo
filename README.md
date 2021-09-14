@@ -1,3 +1,3 @@
-#DEMO
+# Demo
 
 My first github repository
